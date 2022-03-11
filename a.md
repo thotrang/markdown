@@ -97,7 +97,7 @@ example: [photo_zoro][1]
 |nguyễn anh tuân|22|
 
 ## 15. hightlight blockcode
-> sử dụng \``` php ``` để thêm màu sắc
+> sử dụng \``` php ``` để thêm màu sắc trong code
 
     exampel 
 ```php
