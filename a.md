@@ -1,4 +1,6 @@
+
 # Bài 1: Học về markdown file
+
 ## 1. Dấu # : Để tạo tiêu đề chỉ cần điền # ở đầu dòng
 ## 2. Định dạng chữ:
  > Để **in đậm** ta dùng \**văn bản**  hoặc \__văn bản__
@@ -42,8 +44,8 @@ https://www.facebook.com/
 ## 8. Tạo chú thích
 > sử dụng [^1]: text
 
-[^1]: chuthich1
-[^2]: chuthich2
+
+example [^1]: chuthich2 [^2]: chuthich2
 
 ## 9. Tạo đường kẻ ngang
 ---
@@ -51,14 +53,16 @@ https://www.facebook.com/
 
 ## 10. Viết đoạn văn (code block)
 > Sử dụng 1 tab hoặc 4 space để tạo ra 1 đoạn code block 
-
+```php
     tôi tên là tuân
     tôi 22 tuổi
+ ```
 > Khi ở trong list sử dụng 2 tab or 8 space để tạo
 - example
-
+```php
         i learning english
-        because it's mine very bad
+        because its mine very bad
+```
 ## 11. Từ khóa
 > Sử dụng ` để tạo điểm nhấn
 
@@ -92,8 +96,21 @@ example: [photo_zoro][1]
 |:---:|:----:|
 |nguyễn anh tuân|22|
 
-## 15. 
-``` đây là code block 
+## 15. hightlight blockcode
+> sử dụng \``` php ``` để thêm màu sắc
+
+    exampel 
+```php
+    let name = 'tutv';
+    name = 'thanhnv';
+    let name = 'tutv';
+    let name = 'thanhnv'; // Uncaught SyntaxError: Identifier 'name' has already been declared
+ ```
+## 16. Tạo mục lục
+
+    
+
+
 
 
 
