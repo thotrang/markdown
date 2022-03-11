@@ -108,9 +108,30 @@ example: [photo_zoro][1]
  ```
 ## 16. Tạo mục lục
 
-    
+- [Dấu #](#1-dấu---để-tạo-tiêu-đề-chỉ-cần-điền--ở-đầu-dòng)
 
+- [Định dạng chữ](#2-định-dạng-chữ)
 
+- [Tạo danh sách](#3-tạo-danh-sách)
 
+- [Tạo liên kết](#4-tạo-liên-kết)
 
+- [Tạo liên kết tự động](#5-tạo-liên-kết-tự-động)
 
+- [Tạo hình ảnh](#6-tạo-hình-ảnh)
+
+- [Tạo trích dẫn](#7-tạo-trích-dẫn-blockquote)
+
+- [Tạo chú thích](#8-tạo-chú-thích)
+
+- [Tạo đường kẻ ngang](#9-tạo-đường-kẻ-ngang)
+
+- [code block ](#10-viết-đoạn-văn-code-block)
+
+- [Từ khóa](#11-từ-khóa)
+
+- [Ngừng các lệnh](#12-ngừng-các-lệnh)
+- [Refencence type link](#13-link-tham-chiếu-reference-type-link)
+- [Tạo bảng ](#14-tạo-bảng-table)
+- [Hightlight in blockcode](#15-hightlight-blockcode)
+- [Tạo mục lục](#16-tạo-mục-lục)
