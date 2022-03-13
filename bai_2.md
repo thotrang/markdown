@@ -95,3 +95,10 @@ Sử dụng lệnh `git log` là sẽ thấy.
 
     git tag -a ten_tag id_commit -m "ghi chú"
 
+## 5. Thêm tag vào branch
+
+    git checkout -b name_branch name_tag
+
+>Khi đó HEAD sẽ trỏ vào vị trí branch mới với dữ liệu của lần commit gắn tag
+
+
